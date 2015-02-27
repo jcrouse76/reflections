@@ -1,3 +1,9 @@
 Q. What happens when you initialize a repository? Why do you need it?
 A. When the repository is initialized, the files in that repository can now be tracked using Git. This is necessary for adding version control to you files.
 
+Q. How is the staging area different from the working directory and the repository? What value do you think it offers?
+A. Staging area is where files are added from the working directory to have the changes committed. Repository is where the files are added to from the staging area. If you didn't want to add your files from the staging area, you could remove those files before committing.
+
+Q. How can you use the staging area to make sure you have one commit per logical change.
+A. After adding the file to the staging area (git add), you can do a git diff --staged to see the changes you made before committing.
+
