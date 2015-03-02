@@ -7,3 +7,5 @@ A. Staging area is where files are added from the working directory to have the 
 Q. How can you use the staging area to make sure you have one commit per logical change.
 A. After adding the file to the staging area (git add), you can do a git diff --staged to see the changes you made before committing.
 
+Q. What are some situations when branches would be help in keeping your history organized? How would branches help?
+A. Branches would help if you wanted to go make a change and see how it affected the code on the master branch.
