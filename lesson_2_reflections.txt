@@ -15,3 +15,7 @@ A. You can see the parent/child relationship of commits and whether or not those
 
 Q. What is the result of merging two branches together? Why do we represent it in a diagram the way we do?
 A. Merging branches together incorporates code changes on different branches together. Represented in a diagram to make it easier and more logical to follow.
+
+Q. What are the pros and cons of Git's automatic merging vs always doing merges manually?
+A. Git automatic merge will show you the parts of code that need to be addressed before the merge can be completed. Merging manually
+will require the user to compare multiple files to find the problem.
