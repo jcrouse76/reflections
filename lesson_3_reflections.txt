@@ -3,3 +3,8 @@ A. If you were working on multiple machines or others were working on changes to
 
 Q. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A. In case changes are in process, you may not get the changes in a timely fashion if you are using auto. Plus, you can pull on demand if you have others who are in a remote location making changes.
+
+Q. Describe the difference between forks, clones, and branches. When would you use one instead of another
+A.	Fork - On GitHub, when cloning another repository in to your own profile
+A.	Clone - After forking a repository on GitHub, copying the contents of that copied repository to your local machine.
+A.	Branch - On GitHub or on local machine, a sway from the master branch where experimental changes can be done and checked before merging back to the master.
