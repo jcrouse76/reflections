@@ -12,3 +12,6 @@ A.	Branch - On GitHub or on local machine, a sway from the master branch where e
 Q. What is a benefit of having a copy of the last known state of the remote stored locally?
 A. In case changes were introduced that you didn't want, you could always revert to the last known state.
 
+Q. How would you collaberate without using Git or GitHub? What would be easier, and what would be harder?
+A. Would be much easier because changes and notifications between users is real time. If there wasn't a Git or Git Hub, much more manual work would be involved using different types of media for passing information back and forth.
+
